@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Khine Shwe Zin.
-- 👀 I’m interested in writing automation codes and the trees.
-- 🌱 I’m currently learning python and bash
+- 👋 Hi, I’m Khine.
+- 👀 I’m interested in writing automation codes, walking around the trees, and doing absolutely nothing.
+- 🌱 currently working on python and bash
 - 📫 Reach me at shwezin.k@gmail.com.
 
 <!---
